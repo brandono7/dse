@@ -3,6 +3,9 @@ wk2-workshop
 Brandon
 2024-01-24
 
+- [R Markdown](#r-markdown)
+- [Including Plots](#including-plots)
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
